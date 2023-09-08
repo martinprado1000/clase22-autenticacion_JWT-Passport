@@ -1,0 +1,3 @@
+Como vamos a trabajar con JWT eso quiere decir que vamos a hacer una api por lo tanto tenemos
+desacoplado el front del back asique generamos los 2 servidores.
+El servidor del front lo podemos ejecutar con Live server.
